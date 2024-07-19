@@ -4,6 +4,7 @@ body {
     padding: 0;
     box-sizing: border-box;
     color: #333;
+    background-color: #aaa;
 }
 
 header {
@@ -47,6 +48,7 @@ section {
     width: 100%;
     box-shadow: -1px -1px 50px rgba(43, 51, 44, 0.7);
     max-width: 33%;
+    background-color: #fff;
 }
 
 footer {
@@ -89,7 +91,7 @@ footer {
 }
 
 .friends {
-    background: linear-gradient(180deg, #3cda64 10%, #fff 50%);
+    background: linear-gradient(180deg, #3cda64 10%, #aaa 50%);
     display: flex;
     justify-content: center;
     align-items: center;
@@ -106,7 +108,7 @@ footer {
     box-shadow: -1px 2px 30px rgba(43, 51, 44, 0.8);
     position: relative;
     margin: 0 auto;
-    background-color: #b9b4b4;
+    background-color: #e2e1e1;
 }
 
 .slides {
@@ -155,6 +157,7 @@ button:hover {
     width: 60%;
     box-shadow: -1px -1px 50px rgba(11, 212, 35, 0.7);
     margin: 0 auto;
+    background-color: #fff;
 }
 
 #cv div img {
@@ -168,6 +171,7 @@ button:hover {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
+    background-color: ;
 }
 
 #projects>div a {
